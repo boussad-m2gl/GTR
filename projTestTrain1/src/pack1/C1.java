@@ -10,7 +10,7 @@ public class C1 {
 	public static void main(String[] args) {
 		
 		System.out.println(" C1 :  Hello world ");
-		C2.showMssg(); 		
+		C2.showMssg(); 
 		System.out.println(" I am version 2, 2");
 	}
 
