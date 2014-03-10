@@ -3,7 +3,6 @@ package pack1;
 
 public class C1 {
 
-	
 	/**
 	 * @param args
 	 */
@@ -11,7 +10,7 @@ public class C1 {
 		
 		System.out.println(" C1 :  Hello world ");
 		C2.showMssg(); 
-	   System.out.println(" Hello  man !  how are  you  ");	
+	    System.out.println(" Hello  man !  how are  you  ");	
 
 	}
 
